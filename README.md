@@ -1,0 +1,1 @@
+This github repository is for uploading minecraft resource pack.
