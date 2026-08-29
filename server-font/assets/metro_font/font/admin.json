@@ -3,8 +3,8 @@
     {
       "type": "bitmap",
       "file": "metro_font:font/admin.png",
-      "height": 8,
-      "ascent": 9,
+      "height": 9,
+      "ascent": 8,
       "chars": [
         "\uE000"
       ]
