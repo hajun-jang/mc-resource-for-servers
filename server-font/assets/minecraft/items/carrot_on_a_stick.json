@@ -1,0 +1,14 @@
+{
+    "model":    {
+        "type": "select",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "minecraft:item/carrot_on_a_stick"
+        },
+        "cases":    [
+            {"when": "example","model": {"type": "model","model": "item/example"}},
+            {"when": "message","model": {"type": "model","model": "item/message"}}
+        ]
+    }
+}

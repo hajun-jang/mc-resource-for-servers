@@ -183,6 +183,15 @@
       "chars": [
         ""
       ]
+    },
+    {
+      "type": "bitmap",
+      "file": "metro_font:font/c.png",
+      "height": 8,
+      "ascent": 7,
+      "chars": [
+        "\uE100"
+      ]
     }
   ]
 }
