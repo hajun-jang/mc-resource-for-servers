@@ -8,7 +8,8 @@
         },
         "cases":    [
             {"when": "example","model": {"type": "model","model": "item/example"}},
-            {"when": "message","model": {"type": "model","model": "item/message"}}
+            {"when": "message","model": {"type": "model","model": "item/message"}},
+            {"when": "infinity_sword","model": {"type": "model","model": "item/infinity_sword"}}
         ]
     }
 }
