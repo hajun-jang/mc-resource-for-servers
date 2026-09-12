@@ -1,0 +1,110 @@
+{
+  "arrive_m04": {
+    "sounds": [
+      "metro_font:arrive_m04"
+    ],
+    "subtitle": "metro.arrive_m04"
+  },
+  "bound_c_down": {
+    "sounds": [
+      "metro_font:bound_c_down"
+    ],
+    "subtitle": "metro.bound_c_down"
+  },
+  "bound_c_up": {
+    "sounds": [
+      "metro_font:bound_c_up"
+    ],
+    "subtitle": "metro.bound_c_up"
+  },
+  "bound_m_down": {
+    "sounds": [
+      "metro_font:bound_m_down"
+    ],
+    "subtitle": "metro.bound_m_down"
+  },
+  "bound_m_up": {
+    "sounds": [
+      "metro_font:bound_m_up"
+    ],
+    "subtitle": "metro.bound_m_up"
+  },
+  "for_c05": {
+    "sounds": [
+      "metro_font:for_c05"
+    ],
+    "subtitle": "metro.for_c05"
+  },
+  "for_c09": {
+    "sounds": [
+      "metro_font:for_c09"
+    ],
+    "subtitle": "metro.for_c09"
+  },
+  "for_m01": {
+    "sounds": [
+      "metro_font:for_m01"
+    ],
+    "subtitle": "metro.for_m01"
+  },
+  "for_m05": {
+    "sounds": [
+      "metro_font:for_m05"
+    ],
+    "subtitle": "metro.for_m05"
+  },
+  "for_return": {
+    "sounds": [
+      "metro_font:for_return"
+    ],
+    "subtitle": "metro.for_return"
+  },
+  "for_terminate": {
+    "sounds": [
+      "metro_font:for_terminate"
+    ],
+    "subtitle": "metro.for_terminate"
+  },
+  "for_trial": {
+    "sounds": [
+      "metro_font:for_trial"
+    ],
+    "subtitle": "metro.for_trial"
+  },
+  "rb_from_non_stations": {
+    "sounds": [
+      "metro_font:rb_from_non_stations"
+    ],
+    "subtitle": "metro.rb_from_non_stations"
+  },
+  "track_1": {
+    "sounds": [
+      "metro_font:track_1"
+    ],
+    "subtitle": "metro.track_1"
+  },
+  "track_2": {
+    "sounds": [
+      "metro_font:track_2"
+    ],
+    "subtitle": "metro.track_2"
+  },
+  "track_3": {
+    "sounds": [
+      "metro_font:track_3"
+    ],
+    "subtitle": "metro.track_3"
+  },
+  "track_4": {
+    "sounds": [
+      "metro_font:track_4"
+    ],
+    "subtitle": "metro.track_4"
+  },
+  "wait_behind": {
+    "sounds": [
+      "metro_font:wait_behind"
+    ],
+    "subtitle": "metro.wait_behind"
+  }
+}
