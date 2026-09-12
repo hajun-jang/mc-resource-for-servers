@@ -1,9 +1,51 @@
 {
+  "arrive_c05": {
+    "sounds": [
+      "metro_font:arrive_c05"
+    ],
+    "subtitle": "metro.arrive_c05"
+  },
+  "arrive_c06": {
+    "sounds": [
+      "metro_font:arrive_c06"
+    ],
+    "subtitle": "metro.arrive_c06"
+  },
+  "arrive_c07": {
+    "sounds": [
+      "metro_font:arrive_c07"
+    ],
+    "subtitle": "metro.arrive_c07"
+  },
+  "arrive_c09": {
+    "sounds": [
+      "metro_font:arrive_c09"
+    ],
+    "subtitle": "metro.arrive_c09"
+  },
+  "arrive_m01": {
+    "sounds": [
+      "metro_font:arrive_m01"
+    ],
+    "subtitle": "metro.arrive_m01"
+  },
+  "arrive_m02": {
+    "sounds": [
+      "metro_font:arrive_m02"
+    ],
+    "subtitle": "metro.arrive_m02"
+  },
   "arrive_m04": {
     "sounds": [
       "metro_font:arrive_m04"
     ],
     "subtitle": "metro.arrive_m04"
+  },
+  "arrive_m05": {
+    "sounds": [
+      "metro_font:arrive_m05"
+    ],
+    "subtitle": "metro.arrive_m05"
   },
   "bound_c_down": {
     "sounds": [
