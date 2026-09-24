@@ -3,7 +3,7 @@
     {
       "type": "bitmap",
       "file": "metro_font:font/logo/sr-logo.png",
-      "height": 130,
+      "height": 66,
       "ascent": 80,
       "chars": [
         "\uE000"
@@ -12,7 +12,7 @@
     {
       "type": "bitmap",
       "file": "metro_font:font/logo/minecourt.png",
-      "height": 130,
+      "height": 110,
       "ascent": 80,
       "chars": [
         "\uE001"
