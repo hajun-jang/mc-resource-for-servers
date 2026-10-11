@@ -1,0 +1,44 @@
+{
+  "providers": [
+    {
+      "type": "ttf",
+      "file": "metro_font:korail.ttf",
+      "size": 11,
+      "oversample": 23,
+      "skip": [
+        "\u2170", "\u2171", "\u2172", "\u2173", "\u2174", 
+        "\u2175", "\u2176", "\u2177", "\u2178", "\u2179"
+      ]
+    },
+    {
+      "type": "ttf",
+      "file": "metro_font:korail.ttf",
+      "oversample": 16,
+      "skip": [
+        "\u2170", "\u2172", "\u2173", "\u2174", 
+        "\u2175", "\u2176", "\u2177", "\u2178", "\u2179"
+      ]
+    },
+    {
+      "type": "ttf",
+      "file": "metro_font:korail.ttf",
+      "oversample": 5,
+      "skip": [
+        "\u2176", "\u2177", "\u2178", "\u2179"
+      ]
+    },
+    {
+      "type": "ttf",
+      "file": "metro_font:korail.ttf",
+      "oversample": 2.7,
+      "skip": [
+        "\u2176", "\u2178"
+      ]
+    },
+    {
+      "type": "ttf",
+      "file": "metro_font:korail.ttf",
+      "oversample": 2.1
+    }
+  ]
+}

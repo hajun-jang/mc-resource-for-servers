@@ -1,0 +1,13 @@
+{
+  "providers": [
+    {
+      "type": "bitmap",
+      "file": "serverrs:font/admin.png",
+      "height": 9,
+      "ascent": 8,
+      "chars": [
+        "\uE000"
+      ]
+    }
+  ]
+}

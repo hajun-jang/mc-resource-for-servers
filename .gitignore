@@ -1,1 +1,3 @@
 *.py
+client
+client.log
