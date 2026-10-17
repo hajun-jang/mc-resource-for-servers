@@ -1,0 +1,19 @@
+{
+  "providers": [
+    {
+      "type": "ttf",
+      "file": "metro_font:window.ttf",
+      "size": 11,
+      "oversample": 22,
+      "skip": [
+        "\u2030"
+      ]
+    },
+    {
+      "type": "ttf",
+      "file": "metro_font:window.ttf",
+      "size": 11,
+      "oversample": 18
+    }
+  ]
+}
