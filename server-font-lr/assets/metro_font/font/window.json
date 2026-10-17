@@ -2,18 +2,45 @@
   "providers": [
     {
       "type": "ttf",
-      "file": "metro_font:window.ttf",
-      "size": 11,
-      "oversample": 22,
-      "skip": [
-        "\u2030"
-      ]
+      "file": "metro_font:tahoma.ttf",
+      "size": 7.5,
+      "oversample": 27
     },
     {
       "type": "ttf",
-      "file": "metro_font:window.ttf",
-      "size": 11,
-      "oversample": 18
+      "file": "metro_font:malgun.ttf",
+      "size": 7.5,
+      "oversample": 27
+    },
+    {
+      "type": "ttf",
+      "file": "metro_font:gulim.ttc",
+      "size": 7.5,
+      "oversample": 27
+    },
+    {
+      "type": "ttf",
+      "file": "metro_font:msjh.ttc",
+      "size": 7.5,
+      "oversample": 27
+    },
+    {
+      "type": "ttf",
+      "file": "metro_font:msyh.ttc",
+      "size": 7.5,
+      "oversample": 27
+    },
+    {
+      "type": "ttf",
+      "file": "metro_font:yugothm.ttc",
+      "size": 7.5,
+      "oversample": 27
+    },
+    {
+      "type": "ttf",
+      "file": "metro_font:seguisym.ttf",
+      "size": 7.5,
+      "oversample": 27
     }
   ]
 }
