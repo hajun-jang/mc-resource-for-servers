@@ -1,0 +1,10 @@
+{
+  "providers": [
+    {
+      "type": "ttf",
+      "file": "metro_font:hy_ulleungdo.ttf",
+      "size": 8,
+      "oversample": 30
+    }
+  ]
+}

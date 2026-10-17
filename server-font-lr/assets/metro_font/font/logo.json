@@ -2,7 +2,7 @@
   "providers": [
     {
       "type": "bitmap",
-      "file": "serverrs:font/logo/sr-logo.png",
+      "file": "metro_font:font/logo/sr-logo.png",
       "height": 66,
       "ascent": 7,
       "chars": [
@@ -11,7 +11,7 @@
     },
     {
       "type": "bitmap",
-      "file": "serverrs:font/logo/minecourt.png",
+      "file": "metro_font:font/logo/minecourt.png",
       "height": 110,
       "ascent": 7,
       "chars": [

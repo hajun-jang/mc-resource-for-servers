@@ -6,7 +6,7 @@
     },
     {
       "type": "bitmap",
-      "file": "serverrs:font/m01.png",
+      "file": "metro_font:font/m01.png",
       "height": 8,
       "ascent": 7,
       "chars": [
@@ -15,7 +15,7 @@
     },
     {
       "type": "bitmap",
-      "file": "serverrs:font/m02.png",
+      "file": "metro_font:font/m02.png",
       "height": 8,
       "ascent": 7,
       "chars": [
@@ -24,7 +24,7 @@
     },
     {
       "type": "bitmap",
-      "file": "serverrs:font/m03.png",
+      "file": "metro_font:font/m03.png",
       "height": 8,
       "ascent": 7,
       "chars": [
@@ -33,7 +33,7 @@
     },
     {
       "type": "bitmap",
-      "file": "serverrs:font/m04.png",
+      "file": "metro_font:font/m04.png",
       "height": 8,
       "ascent": 7,
       "chars": [
@@ -42,7 +42,7 @@
     },
     {
       "type": "bitmap",
-      "file": "serverrs:font/m05.png",
+      "file": "metro_font:font/m05.png",
       "height": 8,
       "ascent": 7,
       "chars": [
@@ -51,7 +51,7 @@
     },
     {
       "type": "bitmap",
-      "file": "serverrs:font/m06.png",
+      "file": "metro_font:font/m06.png",
       "height": 8,
       "ascent": 7,
       "chars": [
@@ -60,7 +60,7 @@
     },
     {
       "type": "bitmap",
-      "file": "serverrs:font/m07.png",
+      "file": "metro_font:font/m07.png",
       "height": 8,
       "ascent": 7,
       "chars": [
@@ -69,7 +69,7 @@
     },
     {
       "type": "bitmap",
-      "file": "serverrs:font/m08.png",
+      "file": "metro_font:font/m08.png",
       "height": 8,
       "ascent": 7,
       "chars": [
@@ -78,7 +78,7 @@
     },
     {
       "type": "bitmap",
-      "file": "serverrs:font/m09.png",
+      "file": "metro_font:font/m09.png",
       "height": 8,
       "ascent": 7,
       "chars": [
@@ -87,7 +87,7 @@
     },
     {
       "type": "bitmap",
-      "file": "serverrs:font/m10.png",
+      "file": "metro_font:font/m10.png",
       "height": 8,
       "ascent": 7,
       "chars": [
@@ -96,7 +96,7 @@
     },
     {
       "type": "bitmap",
-      "file": "serverrs:font/m11.png",
+      "file": "metro_font:font/m11.png",
       "height": 8,
       "ascent": 7,
       "chars": [
@@ -105,7 +105,7 @@
     },
     {
       "type": "bitmap",
-      "file": "serverrs:font/m12.png",
+      "file": "metro_font:font/m12.png",
       "height": 8,
       "ascent": 7,
       "chars": [
@@ -114,7 +114,7 @@
     },
     {
       "type": "bitmap",
-      "file": "serverrs:font/m13.png",
+      "file": "metro_font:font/m13.png",
       "height": 8,
       "ascent": 7,
       "chars": [
@@ -123,7 +123,7 @@
     },
     {
       "type": "bitmap",
-      "file": "serverrs:font/m14.png",
+      "file": "metro_font:font/m14.png",
       "height": 8,
       "ascent": 7,
       "chars": [
@@ -132,7 +132,7 @@
     },
     {
       "type": "bitmap",
-      "file": "serverrs:font/m15.png",
+      "file": "metro_font:font/m15.png",
       "height": 8,
       "ascent": 7,
       "chars": [
@@ -141,7 +141,7 @@
     },
     {
       "type": "bitmap",
-      "file": "serverrs:font/m16.png",
+      "file": "metro_font:font/m16.png",
       "height": 8,
       "ascent": 7,
       "chars": [
@@ -150,7 +150,7 @@
     },
     {
       "type": "bitmap",
-      "file": "serverrs:font/m17.png",
+      "file": "metro_font:font/m17.png",
       "height": 8,
       "ascent": 7,
       "chars": [
@@ -159,7 +159,7 @@
     },
     {
       "type": "bitmap",
-      "file": "serverrs:font/m18.png",
+      "file": "metro_font:font/m18.png",
       "height": 8,
       "ascent": 7,
       "chars": [
@@ -168,7 +168,7 @@
     },
     {
       "type": "bitmap",
-      "file": "serverrs:font/m19.png",
+      "file": "metro_font:font/m19.png",
       "height": 8,
       "ascent": 7,
       "chars": [
@@ -177,7 +177,7 @@
     },
     {
       "type": "bitmap",
-      "file": "serverrs:font/m20.png",
+      "file": "metro_font:font/m20.png",
       "height": 8,
       "ascent": 7,
       "chars": [
@@ -186,7 +186,7 @@
     },
     {
       "type": "bitmap",
-      "file": "serverrs:font/m21.png",
+      "file": "metro_font:font/m21.png",
       "height": 8,
       "ascent": 7,
       "chars": [
@@ -195,7 +195,7 @@
     },
     {
       "type": "bitmap",
-      "file": "serverrs:font/m22.png",
+      "file": "metro_font:font/m22.png",
       "height": 8,
       "ascent": 7,
       "chars": [
@@ -204,7 +204,7 @@
     },
     {
       "type": "bitmap",
-      "file": "serverrs:font/m23.png",
+      "file": "metro_font:font/m23.png",
       "height": 8,
       "ascent": 7,
       "chars": [
@@ -213,7 +213,7 @@
     },
     {
       "type": "bitmap",
-      "file": "serverrs:font/m24.png",
+      "file": "metro_font:font/m24.png",
       "height": 8,
       "ascent": 7,
       "chars": [
@@ -222,7 +222,7 @@
     },
     {
       "type": "bitmap",
-      "file": "serverrs:font/m25.png",
+      "file": "metro_font:font/m25.png",
       "height": 8,
       "ascent": 7,
       "chars": [
@@ -231,7 +231,7 @@
     },
     {
       "type": "bitmap",
-      "file": "serverrs:font/m.png",
+      "file": "metro_font:font/m.png",
       "height": 8,
       "ascent": 7,
       "chars": [

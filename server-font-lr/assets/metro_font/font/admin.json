@@ -2,7 +2,7 @@
   "providers": [
     {
       "type": "bitmap",
-      "file": "serverrs:font/admin.png",
+      "file": "metro_font:font/admin.png",
       "height": 9,
       "ascent": 8,
       "chars": [
